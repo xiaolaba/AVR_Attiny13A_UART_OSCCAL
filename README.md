@@ -1,7 +1,9 @@
 # AVR_Attiny13A_UART_OSCCAL  
 clone and modified code, Attiny13A dump OSCCAL via software UART  
+![dump_osccal.JPG](dump_osccal.JPG)  
 
-software uart_tx routine, http://nerdralph.blogspot.com/2014/01/avr-half-duplex-software-uart.html  
+###software uart_tx routine by,  
+http://nerdralph.blogspot.com/2014/01/avr-half-duplex-software-uart.html  
 
 default baud rate, 115200, N81  
 
